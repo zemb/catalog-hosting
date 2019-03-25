@@ -1,3 +1,4 @@
 {
-  "id": "ui"
+  "id": "red",
+  "image": "wedeploy/email:latest"
 }
